@@ -1,5 +1,14 @@
 <!-- Wave emoji gif--> 
-# Hi, Linus here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<p align=center>
+  <h1>
+    Hi, Linus here! 
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  </h1>
+  <h2>Computer Science Student at De La Salle University</h2>
+</p>
+
+- Hi! I'm currently a Sci-tech writer @TheLaSallian and a Data Scientist in the making.
+- I love to engage in fields outside of computer science and my comfort zones like socioeconomics, anthropology, and many more!
 
 ## Some Tools I Have Used and Learned
 **Coding and Databases**
@@ -37,9 +46,9 @@
 
 ## My GitHub Stats
 <a href="https://github.com/Blu-Git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu-Git&hide=html,tex" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blu-Git&hide=html,css&layout=compact&theme=transparent" alt="Blu-Git top languages"/>
 </a>
 
 <a href="https://github.com/Blu-Git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blu-Git&show_icons=true&line_height=27&count_private=true" alt="My github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blu-Git&show_icons=true&line_height=27&count_private=true&theme=transparent" alt="Blu-Git github stats"/>
 </a>
