@@ -1,7 +1,7 @@
 <!-- Wave emoji gif--> 
 # Hi, Linus here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-- Hi! I'm currently a computer science student @DLSU, a Sci-tech writer @TheLaSallian, and a Data Scientist in the making.
+- I'm currently a computer science student @DLSU, a Sci-tech writer @TheLaSallian, and a Software Developer/Data Scientist in the making!
 - I love to engage in fields outside of computer science and my comfort zones like socioeconomics, anthropology, and many more!
 
 ## Some Tools I Have Used and Learned
