@@ -1,10 +1,5 @@
 <!-- Wave emoji gif--> 
-<p align="center">
-  <h1>
-    Hi, Linus here! 
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  </h1>
-</p>
+# Hi, Linus here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - Hi! I'm currently a computer science student @DLSU, a Sci-tech writer @TheLaSallian, and a Data Scientist in the making.
 - I love to engage in fields outside of computer science and my comfort zones like socioeconomics, anthropology, and many more!
